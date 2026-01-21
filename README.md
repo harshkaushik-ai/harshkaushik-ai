@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Harsh Kaushik 👋
 
-<!--
-**harshkaushik-ai/harshkaushik-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web development learner who enjoys building things with code and improving step by step.
 
-Here are some ideas to get you started:
+I’m currently focused on learning how modern web applications are built and how frontend and backend work together.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Web development enthusiast  
+- Learning by building real projects  
+- Interested in React and full-stack development  
+- Focused on writing clean and understandable code  
+
+## What I’m Doing Now
+
+- Improving my JavaScript and React skills  
+- Practicing frontend development concepts  
+- Exploring backend development with Node.js  
+
+## Goals
+
+- Become a confident web developer  
+- Build real-world applications  
+- Start my career in software development  
+
+
