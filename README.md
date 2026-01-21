@@ -16,22 +16,16 @@ I am currently focusing on:
 ## 🛠️ Tech Stack
 
 **Frontend**
-- HTML, CSS, JavaScript
-- React.js
-- Tailwind CSS
+- HTML, CSS, JavaScript, React.js, Tailwind CSS, Next.js
 
 **Backend**
-- Node.js
-- Express.js
+- Node.js, Express.js
 
 **Database**
-- MongoDB
-- PostgreSQL
+- MongoDB, PostgreSQL
 
 **Tools & Platforms**
-- Git & GitHub
-- VS Code
-- Postman
+- Git & GitHub, VS Code, Postman
 
 ## 📫 Connect With Me
 
