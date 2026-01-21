@@ -1,26 +1,42 @@
-# Hi, I'm Harsh Kaushik 👋
+# 👋 Hi, I'm Harsh Kaushik
 
-I’m a web development learner who enjoys building things with code and improving step by step.
+🚀 Aspiring Web Developer | React & MERN Stack Enthusiast  
+🎓 BTech Student | Passionate about building real-world web applications
 
-I’m currently focused on learning how modern web applications are built and how frontend and backend work together.
+## 👨‍💻 About Me
 
-## About Me
+I am a motivated **Web Developer** with hands-on experience in building modern, responsive web applications using **React** and **Node.js**.  
+I enjoy learning by building projects and continuously improving my problem-solving skills.
 
-- Web development enthusiast  
-- Learning by building real projects  
-- Interested in React and full-stack development  
-- Focused on writing clean and understandable code  
+I am currently focusing on:
+- Strengthening frontend skills with React
+- Building full-stack MERN projects
+- Writing clean, maintainable code
 
-## What I’m Doing Now
+## 🛠️ Tech Stack
 
-- Improving my JavaScript and React skills  
-- Practicing frontend development concepts  
-- Exploring backend development with Node.js  
+**Frontend**
+- HTML, CSS, JavaScript
+- React.js
+- Tailwind CSS
 
-## Goals
+**Backend**
+- Node.js
+- Express.js
 
-- Become a confident web developer  
-- Build real-world applications  
-- Start my career in software development  
+**Database**
+- MongoDB
+- PostgreSQL
 
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Postman
 
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *www.linkedin.com/in/harsh-kaushik-a5b10a33a*
+- 🌐 Portfolio: *https://docs.google.com/document/d/1p2QvVCuJkgytaBnVgn0K4na5Y5IjExMZBamlFdk1xiE/edit?usp=drive_link*
+
+⭐ *I’m actively looking for internship and entry-level web development opportunities.*  
+Feel free to check out my repositories and connect with me!
