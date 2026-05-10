@@ -1,11 +1,16 @@
 # 👋 Hi, I'm Harsh Kaushik
 
-🚀 Aspiring Web Developer | React & MERN Stack Enthusiast  
+🚀 Software Developer | React & MERN Stack  
 🎓 BTech Student | Passionate about building real-world web applications
+
+## 👨‍💻 Experience
+
+I have an experience of 7months in building scalable production automation software and custom software at Itsybizz Ai Pvt Ltd.
+I have worked as a full stack developer in building scalable api,system design and react dashboards.
 
 ## 👨‍💻 About Me
 
-I am a motivated **Web Developer** with hands-on experience in building modern, responsive web applications using **React** and **Node.js**.  
+I am a **Software Developer** with hands-on experience in building modern, responsive web applications using **React** and **Node.js**.  
 I enjoy learning by building projects and continuously improving my problem-solving skills.
 
 I am currently focusing on:
